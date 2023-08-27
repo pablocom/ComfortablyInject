@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortablyInject", "ComfortablyInject\ComfortablyInject.csproj", "{D4290500-7D87-4C43-A455-412C39351F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortablyInject.UnitTests", "ComfortablyInject.UnitTests\ComfortablyInject.UnitTests.csproj", "{9C0AF433-AE01-4B7A-A19D-EBAC9FFDCA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortablyInject.SampleConsoleApp", "ComfortablyInject.SampleConsoleApp\ComfortablyInject.SampleConsoleApp.csproj", "{F1A05FA7-3E6F-4EB4-A591-B2FFE66822E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4290500-7D87-4C43-A455-412C39351F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4290500-7D87-4C43-A455-412C39351F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4290500-7D87-4C43-A455-412C39351F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4290500-7D87-4C43-A455-412C39351F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0AF433-AE01-4B7A-A19D-EBAC9FFDCA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0AF433-AE01-4B7A-A19D-EBAC9FFDCA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0AF433-AE01-4B7A-A19D-EBAC9FFDCA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0AF433-AE01-4B7A-A19D-EBAC9FFDCA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A05FA7-3E6F-4EB4-A591-B2FFE66822E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A05FA7-3E6F-4EB4-A591-B2FFE66822E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A05FA7-3E6F-4EB4-A591-B2FFE66822E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A05FA7-3E6F-4EB4-A591-B2FFE66822E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
